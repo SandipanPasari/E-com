@@ -87,3 +87,12 @@
     border-bottom-right-radius: 4px;
     color: black;
 }
+
+span {
+    font-size: 0.74rem;
+}
+
+.navsecond {
+    font-size: 0.85rem;
+    font-weight: 700;
+}
