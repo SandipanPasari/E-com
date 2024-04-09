@@ -60,6 +60,10 @@
     border-radius: 4px;
 }
 
+.navsearch:hover {
+   border: 2px solid goldenrod;
+}
+
 .search-select {
     background-color: whitesmoke;
     height: 40px;
@@ -94,5 +98,14 @@ span {
 
 .navsecond {
     font-size: 0.85rem;
+    font-weight: 700;
+}
+
+.navcart i{
+    font-size: 30px;
+}
+
+.navcart{
+    font-size: 0.76rem;
     font-weight: 700;
 }
