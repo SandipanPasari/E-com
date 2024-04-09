@@ -49,6 +49,7 @@
 .addicon {
     display: flex;
     align-items: center;
+    color: goldenrod;
 }
 
 .navsearch {
@@ -103,6 +104,7 @@ span {
 
 .navcart i{
     font-size: 30px;
+    color: goldenrod;
 }
 
 .navcart{
