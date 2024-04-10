@@ -111,3 +111,57 @@ span {
     font-size: 0.76rem;
     font-weight: 700;
 }
+
+.pannel {
+    height: 40px;
+    background-color: #161e27;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.pannelall i{
+    color: goldenrod;
+}
+
+.pannelx p {
+    display: inline;
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.pannelx {
+    width: 70%;
+    font-size: 0.85rem;
+}
+
+.electronics {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: goldenrod;
+}
+
+.books {
+    background-image: url("book.jpg");
+    background-size: cover;
+    height: 370px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.books-text {
+    background-color: black;
+    color: goldenrod;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin-bottom: 25px;
+}
+
+.books-text a {
+    color: #0ddaf1;
+}
