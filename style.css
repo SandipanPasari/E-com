@@ -184,7 +184,11 @@ span {
 .boximage {
     height: 300px;
     padding: 20px 0px 15px;
-    background-size: contain;
+    background-size: cover;
+}
+
+.ga {
+    justify-content: center;
 }
 
 .boxcontent {
