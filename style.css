@@ -200,6 +200,11 @@ span {
     margin-right: 1rem;
 }
 
+.boxcontent h2{
+    text-align: center;
+    padding: 15px 0;
+}
+
 .boxcontent p {
     color: #0ddaf1;
 }
