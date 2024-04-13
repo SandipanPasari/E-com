@@ -167,17 +167,17 @@ span {
 }
 
 .shop {
-    margin-top: 5px;
     display: flex;
     justify-content: space-evenly;
-    background-color: goldenrod;
+    background-color: #bee0b4;
     color: goldenrod;
+    font-style: oblique;
 }
 
 .box {
-    height: 400px;
+    height: 420px;
     width: 23%;
-    background-color: black;
+    background-color: #161e27;
     margin-top: 15px;
 }
 
@@ -201,5 +201,6 @@ span {
 }
 
 .boxcontent p {
+    text-align: center;
     color: #0ddaf1;
 }
