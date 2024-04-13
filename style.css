@@ -190,19 +190,14 @@ span {
 
 .ga {
     margin-top: 10px;
-    /* justify-content : center;
-    align-items: center; */
+    justify-content : center;
+    align-items: center;
     height: 40px;
 }
 
 .boxcontent {
     margin-left: 1rem;
     margin-right: 1rem;
-}
-
-.boxcontent h2{
-    text-align: center;
-    padding: 15px 0;
 }
 
 .boxcontent p {
