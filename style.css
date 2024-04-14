@@ -172,6 +172,7 @@ span {
     background-color: #bee0b4;
     color: goldenrod;
     font-style: oblique;
+    padding-bottom: 40px;
 }
 
 .box {
@@ -185,7 +186,7 @@ span {
     height: 300px;
     padding: 20px 0px 15px;
     background-size: cover;
-    border-radius: 30px;
+    border-radius: 17px;
 }
 
 .ga {
