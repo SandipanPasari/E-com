@@ -209,8 +209,20 @@ span {
     color: #0ddaf1;
 }
 
+.footer{
+    position: relative;
+}
+
 .footpannel-1 {
+    display: flex;
+    position: absolute;
     background-color: #37475a;
     color: white;
     height: 50px;
+    bottom: 0;
+    right: 0;
+    margin: 10px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
 }
